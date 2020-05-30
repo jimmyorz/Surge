@@ -1,5 +1,12 @@
-# Jimmy Surge
-Jimmy's Surge Rules
+# Jimmy's Surge Rules
+
+阻擋漫畫人廣告
+https://github.com/jimmyorz/Surge/raw/master/Manhuaren.sgmodule
+
+Youtube 擋廣告 (Fork, 改寫 js 路徑至自家)
+https://github.com/jimmyorz/Surge/raw/master/YouTube.sgmodule
+
+via https://github.com/Phowx/Rules/raw/master/YouTube.sgmodule
 
 # 教學
 蘋果生態圈的網路神器 Surge 4 for iOS 簡易入門教學
@@ -10,15 +17,6 @@ https://www.jkg.tw/p3351/
 
 利用 Surge for iOS 破解台灣電信商的人工限速
 https://www.jkg.tw/p3343/
-
-# 阻擋漫畫人廣告
-https://github.com/jimmyorz/Surge/raw/master/Manhuaren.sgmodule
-
-# Youtube Fork 改寫 js 路徑至自家
-https://github.com/jimmyorz/Surge/raw/master/YouTube.sgmodule
-
-via Youtube 擋廣告
-https://github.com/Phowx/Rules/raw/master/YouTube.sgmodule
 
 # 推薦規則
 ADList
