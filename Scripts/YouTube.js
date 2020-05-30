@@ -1,4 +1,5 @@
 /*
+via https://github.com/Phowx/Rules/raw/master/YouTube.sgmodule
 [Script]
 http-request ^https://[\s\S]*\.googlevideo\.com/.*&(oad|ctier) script-path=https://Choler.github.io/Surge/Script/YouTube.js
 [MITM]
