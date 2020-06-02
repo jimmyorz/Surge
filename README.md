@@ -4,7 +4,7 @@
 https://github.com/jimmyorz/Surge/raw/master/Manhuaren.sgmodule
 
 
-Youtube 擋廣告 (Fork, js 路徑至自家)
+Youtube 擋廣告 (Fork and Update)
 https://github.com/jimmyorz/Surge/raw/master/YouTube.sgmodule
 
 # 教學
