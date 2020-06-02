@@ -13,9 +13,11 @@ URL-REGEX,https?:\/\/s0.2mdn.net\/ads\/,REJECT
 URL-REGEX,https?:\/\/stats.tubemogul.com\/stats\/,REJECT
 URL-REGEX,https?:\/\/youtubei.googleapis.com\/.+ad_break,REJECT
 URL-REGEX,https?:\/\/youtubei.googleapis.com\/youtubei\/.+(ad|log),REJECT
+URL-REGEX,https?:\/\/s\.youtube\.com\/api\/stats\/qoe\?adformat,REJECT
+URL-REGEX,https?:\/\/[\w-]+\.googlevideo\.com\/.+&(oad|ctier),REJECT-TINYGIF
 
-[Script]
-YouTube = type=http-request,pattern=https://[\s\S]*\.googlevideo\.com/.*&(oad|ctier),script-path=https://github.com/jimmyorz/Surge/raw/master/Scripts/YouTube.js
+//[Script]
+//YouTube = type=http-request,pattern=https://[\s\S]*\.googlevideo\.com/.*&(oad|ctier),script-path=https://github.com/jimmyorz/Surge/raw/master/Scripts/YouTube.js
 
 [MITM]
 hostname = %APPEND% *.googlevideo.com, *.youtube.com, youtubei.googleapis.com
