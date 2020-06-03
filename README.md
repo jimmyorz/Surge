@@ -1,10 +1,10 @@
 # Jimmy's Surge Rules
 
-阻擋漫畫人廣告 (同步整合至FutaFilter)
+阻擋漫畫人廣告 (同步整合至 FutaFilter)
 https://github.com/jimmyorz/Surge/raw/master/Manhuaren.sgmodule
 
 
-Youtube 擋廣告 (Fork and Update)
+Youtube 擋廣告 (Fork then Update)
 https://github.com/jimmyorz/Surge/raw/master/YouTube.sgmodule
 
 # 教學
