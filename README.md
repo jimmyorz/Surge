@@ -4,8 +4,13 @@
 https://github.com/jimmyorz/Surge/raw/master/Manhuaren.sgmodule
 
 
+Twitter Image DNS
+https://github.com/jimmyorz/Surge/raw/master/TwitterImage.sgmodule
+
+
 Youtube 擋廣告 (Fork then Update)
 https://github.com/jimmyorz/Surge/raw/master/YouTube.sgmodule
+
 
 # 教學
 蘋果生態圈的網路神器 Surge 4 for iOS 簡易入門教學
