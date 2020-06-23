@@ -39,5 +39,8 @@ https://kinta.ma/surge/ptt.sgmodule
 Netflix IMDB 評分
 https://kinta.ma/surge/netflix_rating.sgmodule
 
+巴哈動畫瘋去廣告
+https://github.com/lhie1/Rules/raw/master/Surge/Surge%203/Module/Bahamut.sgmodule
+
 皮樂姐推薦
 https://kinta.ma/surge/
