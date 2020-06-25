@@ -8,4 +8,4 @@ URL-REGEX,^http:\/\/mangaapi.manhuaren.com\/.+\/manga\/getMangaPromotionActivity
 URL-REGEX,^http:\/\/mangaapi.manhuaren.com\/.+\/ad\/,REJECT
 
 [MITM]
-hostname = mangaapi.manhuaren.com
+hostname = %APPEND% mangaapi.manhuaren.com
