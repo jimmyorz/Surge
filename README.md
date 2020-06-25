@@ -1,15 +1,15 @@
 # Jimmy's Surge Rules
 
 阻擋漫畫人廣告 (同步整合至 FutaFilter)
-https://github.com/jimmyorz/Surge/raw/master/Manhuaren.sgmodule
+https://raw.githubusercontent.com/jimmyorz/Surge/master/Manhuaren.sgmodule
 
 
 Twitter Image DNS
-https://github.com/jimmyorz/Surge/raw/master/TwitterImage.sgmodule
+https://raw.githubusercontent.com/jimmyorz/Surge/master/TwitterImage.sgmodule
 
 
 Youtube 擋廣告 (Fork then Update)
-https://github.com/jimmyorz/Surge/raw/master/YouTube.sgmodule
+https://raw.githubusercontent.com/jimmyorz/Surge/master/YouTube.sgmodule
 
 
 # 教學
