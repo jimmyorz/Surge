@@ -1,5 +1,5 @@
 #!name=Twitter Image DNS
-#!desc=解決近期 Twitter 圖片無法開啟或開啟緩慢的問題 v20200622.01
+#!desc=解決近期 Twitter 圖片無法開啟或開啟緩慢的問題 v20200628.01
 
 [Host]
-pbs.twimg.com = 93.184.220.70
+pbs.twimg.com = 151.101.188.159
