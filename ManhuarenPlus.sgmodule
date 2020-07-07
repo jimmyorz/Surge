@@ -14,6 +14,7 @@ URL-REGEX,^https?:\/\/mangaapi\.manhuaren\.com\/v\d\/\w+\/getMultiAds,REJECT
 URL-REGEX,^https?:\/\/mangaapi\.manhuaren\.com\/v\d\/\w+\/getGiftActivity,REJECT
 URL-REGEX,^https?:\/\/mangaapi\.manhuaren\.com\/v\d\/\w+\/getAds,REJECT
 URL-REGEX,^https?:\/\/mangaapi\.manhuaren\.com\/v\d\/\w+\/getStartPageAds,REJECT
+URL-REGEX,^https?:\/\/mangaapi\.manhuaren\.com\/v\d\/\w+\/getStartPageAds2,REJECT
 URL-REGEX,^https?:\/\/mangaapi\.manhuaren\.com\/v\d\/\w+\/getMangaHideDetail,REJECT
 URL-REGEX,^https?:\/\/mangaapi\.manhuaren\.com\/v\d\/\w+\/getMangaPromotion,REJECT
 URL-REGEX,^https?:\/\/mangaapi\.manhuaren\.com\/v\d\/\w+\/getRecommendedGame,REJECT
