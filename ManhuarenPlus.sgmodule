@@ -23,8 +23,6 @@ URL-REGEX,^https?:\/\/mangaapi\.manhuaren\.com\/v\d\/\w+\/getMangaPromotionActiv
 URL-REGEX,^https?:\/\/mangaapi\.manhuaren\.com\/v\d\/\w+\/getHome,REJECT
 URL-REGEX,^https?:\/\/mangaapi\.manhuaren\.com\/v\d\/\w+\/recommend,REJECT
 URL-REGEX,^https?:\/\/mangaapi\.manhuaren\.com\/v\d\/ad,REJECT
-
-#! Manhuaren hosts
 DOMAIN-SUFFIX,hkadsapi.manhuaren.com,REJECT
 DOMAIN-SUFFIX,adsapi.manhuaren.com,REJECT
 DOMAIN-SUFFIX,videoapi.manhuaren.com,REJECT
