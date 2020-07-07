@@ -1,0 +1,7 @@
+#!name=Block China DNS
+#!desc=阻擋中國垃圾網站及相關App v20200708.01
+
+DOMAIN-SUFFIX,360.com,REJECT
+DOMAIN-SUFFIX,360.cn,REJECT
+DOMAIN-SUFFIX,douyin.com,REJECT
+DOMAIN-SUFFIX,tiktok.com,REJECT
