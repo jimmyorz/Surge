@@ -3,11 +3,7 @@
 #!system=ios
 
 [Rule]
-URL-REGEX,^https?:\/\/mangaapi.manhuaren.com\/.+\/public\/(getShelfActivity|getStartPageAds|getStartPageAds2|getRecommendedGame|getAditem|getAds),REJECT
-URL-REGEX,^https?:\/\/mangaapi.manhuaren.com\/.+\/manga\/getMangaPromotionActivity,REJECT
-URL-REGEX,^https?:\/\/mangaapi.manhuaren.com\/.+\/ad\/,REJECT
-
-#! Plus rules
+URL-REGEX,^https?:\/\/mangaapi\.manhuaren\.com\/v\d\/\w+\/getShelfActivity,REJECT
 URL-REGEX,^https?:\/\/mangaapi\.manhuaren\.com\/v\d\/\w+\/getUpgradeInfo,REJECT
 URL-REGEX,^https?:\/\/mangaapi\.manhuaren\.com\/v\d\/\w+\/getBanner,REJECT
 URL-REGEX,^https?:\/\/mangaapi\.manhuaren\.com\/v\d\/\w+\/getUserLocation,REJECT
