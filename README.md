@@ -1,6 +1,6 @@
 # Jimmy's Surge Rules
 
-阻擋漫畫人廣告 (同步整合至 FutaFilter)
+阻擋漫畫人廣告 (已同步整合至 FutaFilter)
 https://raw.githubusercontent.com/jimmyorz/Surge/master/Manhuaren.sgmodule
 
 
