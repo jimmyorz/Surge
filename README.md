@@ -3,6 +3,9 @@
 阻擋漫畫人廣告 (已同步整合至 FutaFilter)
 https://raw.githubusercontent.com/jimmyorz/Surge/master/Manhuaren.sgmodule
 
+阻擋漫畫人廣告 增強版 (實驗性)
+https://raw.githubusercontent.com/jimmyorz/Surge/master/ManhuarenPlus.sgmodule
+
 
 Twitter Image DNS
 https://raw.githubusercontent.com/jimmyorz/Surge/master/TwitterImage.sgmodule
