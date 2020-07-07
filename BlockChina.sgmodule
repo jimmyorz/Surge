@@ -1,4 +1,4 @@
-#!name=Block China DNS
+#!name=Block China Trash
 #!desc=阻擋中國垃圾網站及相關App v20200708.01
 
 DOMAIN-SUFFIX,360.com,REJECT
