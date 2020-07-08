@@ -35,7 +35,7 @@ ADList
 https://raw.githubusercontent.com/jkgtw/Surge/master/Modules/ADList.sgmodule
 
 FutaFilter
-https://raw.githubusercontent.com/FutaGuard/FutaFilter/master/Surge/filters.txt
+https://filter.futa.gg/Surge/filters.txt
 
 LINE 去廣告
 https://raw.githubusercontent.com/jkgtw/Surge/master/Modules/LINE-ADs.sgmodule
