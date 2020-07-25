@@ -1,8 +1,0 @@
-#!name=Twpkinfo Unlock (Beta)
-#!desc=解除寶可夢雷達地圖手機網頁版本的版權阻擋。使用方法：開啟模組後，打開地圖網頁重新整理頁面一次，等待約5分鐘再開啟一次網頁確認是否解鎖，解鎖後請關閉模組。 v20200726.01
-
-[Header Rewrite]
-twpkinfo.com header-replace User-Agent "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36"
-
-[MITM]
-hostname = %APPEND% twpkinfo.com
