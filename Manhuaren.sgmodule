@@ -12,4 +12,3 @@ DOMAIN-SUFFIX,videoapi.manhuaren.com,REJECT
 
 [MITM]
 hostname = %APPEND% mangaapi.manhuaren.com
-URL-REGEX,^https?:\/\/mangaapi\.manhuaren\.com\/v\d\/\w+\/getBanner,REJECT
