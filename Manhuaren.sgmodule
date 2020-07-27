@@ -1,9 +1,9 @@
 #!name=Remove Manhuaren ADs
-#!desc=阻擋漫畫人廣告 v20200727.01
+#!desc=阻擋漫畫人廣告 v20200727.02
 #!system=ios
 
 [Rule]
-URL-REGEX,^https?:\/\/mangaapi.manhuaren.com\/.+\/public\/(getShelfActivity|getStartPageAds|getStartPageAds2|getRecommendedGame|getAditem|getAds|getBanner),REJECT
+URL-REGEX,^https?:\/\/mangaapi.manhuaren.com\/.+\/public\/(getShelfActivity|getStartPageAds|getStartPageAds2|getRecommendedGame|getAditem|getAds|getMultiAds|getHome),REJECT
 URL-REGEX,^https?:\/\/mangaapi.manhuaren.com\/.+\/manga\/getMangaPromotionActivity,REJECT
 URL-REGEX,^https?:\/\/mangaapi.manhuaren.com\/.+\/ad\/,REJECT
 DOMAIN-SUFFIX,hkadsapi.manhuaren.com,REJECT
