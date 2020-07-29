@@ -1,10 +1,13 @@
 #!name=Block China Trash
-#!desc=阻擋中國垃圾網站及相關App v20200710.01
+#!desc=阻擋中國垃圾網站及相關App v20200729.01
 
 [Rule]
 DOMAIN-SUFFIX,360.com,REJECT
 DOMAIN-SUFFIX,360.cn,REJECT
 DOMAIN-SUFFIX,douyin.com,REJECT
 DOMAIN-SUFFIX,tiktok.com,REJECT
+DOMAIN-SUFFIX,douyincdn.com,REJECT
+DOMAIN-SUFFIX,ixigua.com,REJECT
+DOMAIN-SUFFIX,pstatp.com,REJECT
 DOMAIN-SUFFIX,chinatimes.com,REJECT
 DOMAIN-SUFFIX,ctitv.com.tw,REJECT
