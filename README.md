@@ -19,7 +19,7 @@ Youtube 擋廣告 (Fork then Update)
 https://raw.githubusercontent.com/jimmyorz/Surge/master/YouTube.sgmodule
 
 
-阻擋 Facebook SDK (僅供 SDK 出錯時使用)
+完全阻擋 Facebook SDK (僅供 SDK 出錯時使用)
 https://raw.githubusercontent.com/jimmyorz/Surge/master/BlockFacebookSDK.sgmodule
 
 
