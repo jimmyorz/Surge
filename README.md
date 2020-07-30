@@ -44,6 +44,9 @@ https://filter.futa.gg/Surge/filters.txt
 LINE 去廣告
 https://raw.githubusercontent.com/jkgtw/Surge/master/Modules/LINE-ADs.sgmodule
 
+Facebook SDK 阻擋
+https://kinta.ma/surge/facebook_block_sdk.sgmodule
+
 PTT 跳過年齡驗證
 https://kinta.ma/surge/ptt.sgmodule
 
