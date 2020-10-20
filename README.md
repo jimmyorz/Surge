@@ -3,6 +3,7 @@
 阻擋漫畫人廣告 (已同步整合至 FutaFilter)
 https://raw.githubusercontent.com/jimmyorz/Surge/master/Manhuaren.sgmodule
 
+
 阻擋漫畫人廣告 增強版 (實驗性)
 https://raw.githubusercontent.com/jimmyorz/Surge/master/ManhuarenPlus.sgmodule
 
@@ -17,6 +18,21 @@ https://raw.githubusercontent.com/jimmyorz/Surge/master/YouTube.sgmodule
 
 完全阻擋 Facebook SDK (僅供 SDK 出錯時使用，如果完全不用 Facebook 服務可常駐)
 https://raw.githubusercontent.com/jimmyorz/Surge/master/BlockFacebookSDK.sgmodule
+
+
+# Jimmy's iOS Shortcuts
+
+蝦皮縮網址 (Share Mode) v2
+https://www.icloud.com/shortcuts/48fd30f2e1d242448fb8cdef59d3e0fc
+
+蝦皮縮網址 (Copy Mode) v2
+https://www.icloud.com/shortcuts/df1494abd4eb4dc1bb030a22eb977b32
+
+URL Clean (Share Mode)
+https://www.icloud.com/shortcuts/94df63611753496f84b586311062c5c0
+
+URL Clean (Copy Mode)
+https://www.icloud.com/shortcuts/dd66ba9446aa4321b651636597ee4890
 
 
 # 教學
