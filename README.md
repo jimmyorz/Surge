@@ -11,15 +11,11 @@ Twitter Image DNS
 https://raw.githubusercontent.com/jimmyorz/Surge/master/TwitterImage.sgmodule
 
 
-阻擋中國垃圾網站及相關App
-https://raw.githubusercontent.com/jimmyorz/Surge/master/BlockChinaTrash.sgmodule
-
-
 Youtube 擋廣告 (Fork then Update)
 https://raw.githubusercontent.com/jimmyorz/Surge/master/YouTube.sgmodule
 
 
-完全阻擋 Facebook SDK (僅供 SDK 出錯時使用)
+完全阻擋 Facebook SDK (僅供 SDK 出錯時使用，如果完全不用 Facebook 服務可常駐)
 https://raw.githubusercontent.com/jimmyorz/Surge/master/BlockFacebookSDK.sgmodule
 
 
