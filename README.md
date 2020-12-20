@@ -8,12 +8,12 @@ https://raw.githubusercontent.com/jimmyorz/Surge/master/Manhuaren.sgmodule
 https://raw.githubusercontent.com/jimmyorz/Surge/master/ManhuarenPlus.sgmodule
 
 
-Twitter Image DNS
-https://raw.githubusercontent.com/jimmyorz/Surge/master/TwitterImage.sgmodule
-
-
-Youtube 擋廣告 (Fork then Update)
+Youtube 擋廣告 (v20201020.01, Fork then Update)
 https://raw.githubusercontent.com/jimmyorz/Surge/master/YouTube.sgmodule
+
+
+Twitter Image DNS (192.229.237.96 已正常，可停用此模組)
+https://raw.githubusercontent.com/jimmyorz/Surge/master/TwitterImage.sgmodule
 
 
 完全阻擋 Facebook SDK (僅供 SDK 出錯時使用，如果完全不用 Facebook 服務可常駐)
