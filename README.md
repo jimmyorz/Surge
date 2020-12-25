@@ -8,7 +8,7 @@ https://raw.githubusercontent.com/jimmyorz/Surge/master/Manhuaren.sgmodule
 https://raw.githubusercontent.com/jimmyorz/Surge/master/ManhuarenPlus.sgmodule
 
 
-Youtube 擋廣告 (v20201020.01, Fork then Update)
+Youtube 擋廣告 (v20201226.01, Fork then Update)
 https://raw.githubusercontent.com/jimmyorz/Surge/master/YouTube.sgmodule
 
 
