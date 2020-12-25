@@ -1,5 +1,5 @@
 #!name=YouTube
-#!desc=YouTube videos removes ads. v20201020.01
+#!desc=YouTube videos removes ads. v20201226.01
 
 [Rule]
 URL-REGEX,https?:\/\/.+.googlevideo.com\/ptracking\?pltype=adhost,REJECT
@@ -18,6 +18,9 @@ URL-REGEX,https?:\/\/[\w-]+\.googlevideo\.com\/.+&oad,REJECT-TINYGIF
 
 [URL Rewrite]
 ctier=[A-Z] citer=A 302
+
+[Script]
+http-request https?:\/\/.+?\.googlevideo\.com\/.+&(oad|ctier)=(?!A),script-path=https://choler.github.io/Surge/Script/YouTube.js
 
 [MITM]
 hostname = %APPEND% *.googlevideo.com, *.youtube.com, youtubei.googleapis.com
