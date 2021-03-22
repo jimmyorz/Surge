@@ -1,14 +1,16 @@
 #!name=Remove Manhuaren ADs
-#!desc=阻擋漫畫人廣告 v20201001.01
+#!desc=阻擋漫畫人廣告 v20210323.01
 #!system=ios
 
 [Rule]
-URL-REGEX,^https?:\/\/mangaapi.manhuaren.com\/.+\/public\/(getShelfActivity|getStartPageAds|getStartPageAds2|getRecommendedGame|getAditem|getAds|getMultiAds),REJECT
+URL-REGEX,^https?:\/\/mangaapi.manhuaren.com\/.+\/public\/(getShelfActivity|getStartPageAds|getStartPageAds2|getRecommendedGame|getAditem|getAds|getMultiAds|getUpgradeInfo|getVendor|getUserLocation),REJECT
 URL-REGEX,^https?:\/\/mangaapi.manhuaren.com\/.+\/manga\/getMangaPromotionActivity,REJECT
 URL-REGEX,^https?:\/\/mangaapi.manhuaren.com\/.+\/ad\/,REJECT
 DOMAIN-SUFFIX,hkadsapi.manhuaren.com,REJECT
 DOMAIN-SUFFIX,adsapi.manhuaren.com,REJECT
 DOMAIN-SUFFIX,videoapi.manhuaren.com,REJECT
+DOMAIN-SUFFIX,bi.manhuaren.com,REJECT
+DOMAIN-SUFFIX,euadsapi.manhuaren.com,REJECT
 
 [MITM]
 hostname = %APPEND% mangaapi.manhuaren.com
