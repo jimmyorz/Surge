@@ -1,5 +1,5 @@
 #!name=Remove Manhuaren ADs Plus (Beta)
-#!desc=阻擋漫畫人廣告 增強版 v20210323.01
+#!desc=阻擋漫畫人廣告 增強版 v20210323.02
 #!system=ios
 
 [Rule]
@@ -28,7 +28,7 @@ DOMAIN-SUFFIX,videoapi.manhuaren.com,REJECT
 DOMAIN-SUFFIX,bi.manhuaren.com,REJECT
 DOMAIN-SUFFIX,clubapi.manhuaren.com,REJECT
 DOMAIN-SUFFIX,euadsapi.manhuaren.com,REJECT
-
+DOMAIN-SUFFIX,applog.uc.cn,REJECT-TINYGIF
 
 [MITM]
 hostname = %APPEND% mangaapi.manhuaren.com
