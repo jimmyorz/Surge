@@ -8,12 +8,6 @@ URL-REGEX,^https?:\/\/moptt.tw\/b\/Gossiping,REJECT
 URL-REGEX,^https?:\/\/moptt.tw\/b\/HatePolitics,REJECT
 URL-REGEX,^https?:\/\/disp.cc\/b\/Gossiping,REJECT
 URL-REGEX,^https?:\/\/disp.cc\/b\/HatePolitics,REJECT
-URL-REGEX,^https?:\/\/forum.gamer.com.tw\/B\.php\?bsn=60076,REJECT
-URL-REGEX,^https?:\/\/m.gamer.com.tw\/B\.php\?bsn=60076,REJECT
-URL-REGEX,^https?:\/\/m.gamer.com.tw\/forum\/B\.php\?bsn=60076,REJECT
-URL-REGEX,^https?:\/\/forum.gamer.com.tw\/C\.php\?bsn=60076,REJECT
-URL-REGEX,^https?:\/\/m.gamer.com.tw\/forum\/C\.php\?bsn=60076,REJECT
-
 URL-REGEX,^https?:\/\/forum.gamer.com.tw\/.+\.php\?bsn=60076,REJECT
 URL-REGEX,^https?:\/\/m.gamer.com.tw\/.+\.php\?bsn=60076,REJECT
 URL-REGEX,^https?:\/\/m.gamer.com.tw\/forum\/.+\.php\?bsn=60076,REJECT
@@ -21,4 +15,4 @@ URL-REGEX,^https?:\/\/m.gamer.com.tw\/forum\/.+\.php\?bsn=60076,REJECT
 DOMAIN-SUFFIX,dcard.tw,REJECT
 
 [MITM]
-hostname = %APPEND% gamer.com.tw
+hostname = %APPEND% *.gamer.com.tw
