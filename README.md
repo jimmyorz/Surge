@@ -1,22 +1,22 @@
 # Jimmy's Surge Rules
 
-阻擋漫畫人廣告 (已同步整合至 FutaFilter)
+阻擋漫畫人廣告（已同步整合至 [FutaFilter](https://github.com/FutaGuard/FutaFilter)）
 https://raw.githubusercontent.com/jimmyorz/Surge/master/Manhuaren.sgmodule
 
 
-阻擋漫畫人廣告 增強版 (實驗性)
+阻擋漫畫人廣告 增強版（實驗性）
 https://raw.githubusercontent.com/jimmyorz/Surge/master/ManhuarenPlus.sgmodule
 
 
-~~完全阻擋 Facebook SDK (僅供 SDK 出錯時使用，如果完全不用 Facebook 服務可常駐)~~
+~~完全阻擋 Facebook SDK（僅供 SDK 出錯時使用，如果完全不用 Facebook 服務可常駐）~~
 ~~https://raw.githubusercontent.com/jimmyorz/Surge/master/BlockFacebookSDK.sgmodule~~
 
 
-~~[目前已無法使用] Youtube 擋廣告 (v20201226.01, Fork then Update)~~
+~~[目前已無法使用] Youtube 擋廣告（v20201226.01, Fork then Update）~~
 ~~https://raw.githubusercontent.com/jimmyorz/Surge/master/YouTube.sgmodule~~
 
 
-~~Twitter Image DNS (192.229.237.96 已正常，可停用此模組)~~
+~~Twitter Image DNS（192.229.237.96 已正常，可停用此模組）~~
 ~~https://raw.githubusercontent.com/jimmyorz/Surge/master/TwitterImage.sgmodule~~
 
 
