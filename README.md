@@ -8,8 +8,8 @@ https://raw.githubusercontent.com/jimmyorz/Surge/master/Manhuaren.sgmodule
 https://raw.githubusercontent.com/jimmyorz/Surge/master/ManhuarenPlus.sgmodule
 
 
-完全阻擋 Facebook SDK (僅供 SDK 出錯時使用，如果完全不用 Facebook 服務可常駐)
-https://raw.githubusercontent.com/jimmyorz/Surge/master/BlockFacebookSDK.sgmodule
+~~完全阻擋 Facebook SDK (僅供 SDK 出錯時使用，如果完全不用 Facebook 服務可常駐)~~
+~~https://raw.githubusercontent.com/jimmyorz/Surge/master/BlockFacebookSDK.sgmodule~~
 
 
 ~~[目前已無法使用] Youtube 擋廣告 (v20201226.01, Fork then Update)~~
