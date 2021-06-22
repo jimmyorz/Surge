@@ -20,7 +20,7 @@ https://raw.githubusercontent.com/jimmyorz/Surge/master/BlockFacebookSDK.sgmodul
 ~~https://raw.githubusercontent.com/jimmyorz/Surge/master/TwitterImage.sgmodule~~
 
 
-# Jimmy's iOS Shortcuts
+## Jimmy's iOS Shortcuts
 
 **蝦皮網頁版縮網址**
 * Share Mode v2
@@ -38,7 +38,7 @@ https://www.icloud.com/shortcuts/94df63611753496f84b586311062c5c0
 https://www.icloud.com/shortcuts/dd66ba9446aa4321b651636597ee4890
 
 
-# 教學
+## 教學
 蘋果生態圈的網路神器 Surge 4 for iOS 簡易入門教學
 https://www.jkg.tw/p3330/
 
@@ -49,7 +49,7 @@ https://www.jkg.tw/p3351/
 https://www.jkg.tw/p3343/
 
 
-# 推薦規則
+## 推薦規則
 ADList
 https://raw.githubusercontent.com/jkgtw/Surge/master/Modules/ADList.sgmodule
 
