@@ -8,10 +8,6 @@ https://raw.githubusercontent.com/jimmyorz/Surge/master/Manhuaren.sgmodule
 https://raw.githubusercontent.com/jimmyorz/Surge/master/ManhuarenPlus.sgmodule
 
 
-巴哈姆特簽到腳本
-https://github.com/jimmyorz/Surge/raw/master/BahamutDailyBonus.sgmodule
-
-
 ~~完全阻擋 Facebook SDK（僅供 SDK 出錯時使用，如果完全不用 Facebook 服務可常駐）~~
 ~~https://raw.githubusercontent.com/jimmyorz/Surge/master/BlockFacebookSDK.sgmodule~~
 
