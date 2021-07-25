@@ -1,5 +1,5 @@
 #!name=巴哈姆特簽到腳本
-#!desc=腳本作者:NobyDa。這只是個模組殼，記得到腳本編輯器編輯 BahamutDailyBonus.js 填入帳密。每天早上8點執行。 v20210724.02
+#!desc=腳本作者:NobyDa。這只是個模組殼，下載 BahamutDailyBonus.js 並編輯完帳密後扔回 iCloud 的 Surge 資料夾。每天早上8點執行。 v20210725.01
 
 [Script]
-cron "0 8 * * *" script-path=https://raw.githubusercontent.com/NobyDa/Script/master/Bahamut/BahamutDailyBonus.js, wake-system=1, timeout=30
+cron "0 8 * * *" script-path=BahamutDailyBonus.js, wake-system=1, timeout=30
