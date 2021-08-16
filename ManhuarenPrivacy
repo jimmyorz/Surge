@@ -1,0 +1,19 @@
+#!name=Remove Manhuaren ADs
+#!desc=阻擋漫畫人追蹤器 v20210817.01
+#!system=ios
+
+#! 去除首頁活動相關物件
+URL-REGEX,^https?:\/\/mangaapi\.manhuaren\.com\/v\d\/\w+\/getStartUpMessage,REJECT
+
+#! 阻擋各種追蹤器
+DOMAIN-SUFFIX,errlog.umeng.com,REJECT-DROP
+DOMAIN-SUFFIX,sdk.adtiming.com,REJECT-DROP
+DOMAIN-SUFFIX,pangolin16.sgsnssdk.com,REJECT-DROP
+DOMAIN-SUFFIX,rayjump.com,REJECT-DROP
+DOMAIN-KEYWORD,umeng,REJECT
+DOMAIN-SUFFIX,admost.com,REJECT
+DOMAIN-SUFFIX,applovefrom.com,REJECT
+DOMAIN-SUFFIX,pubnative.info,REJECT
+DOMAIN-SUFFIX,pubnative.net,REJECT
+DOMAIN-SUFFIX,sf-tb-sg.ibytedtos.com,REJECT
+DOMAIN-SUFFIX,dm16-alisg.byteoversea.com,REJECT
