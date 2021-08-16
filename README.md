@@ -3,12 +3,17 @@
 阻擋漫畫人廣告（已同步整合至 [FutaFilter](https://github.com/FutaGuard/FutaFilter)）\
 https://raw.githubusercontent.com/jimmyorz/Surge/master/Manhuaren.sgmodule
 
-阻擋漫畫人廣告 增強版（實驗性）\
-https://raw.githubusercontent.com/jimmyorz/Surge/master/ManhuarenPlus.sgmodule
+阻擋漫畫人追蹤器（可選，建議安裝）\
+https://raw.githubusercontent.com/jimmyorz/Surge/master/ManhuarenPrivacy.sgmodule
 
 巴哈姆特簽到腳本（安裝前請先閱讀模組內容）\
 https://github.com/jimmyorz/Surge/raw/master/BahamutDailyBonus.sgmodule 
 - 或參考 https://www.jkg.tw/p3603/ 手動設定
+
+
+**~~以下廢棄~~** \
+~~阻擋漫畫人廣告 增強版（實驗性）~~\
+~~https://raw.githubusercontent.com/jimmyorz/Surge/master/ManhuarenPlus.sgmodule~~
 
 ~~完全阻擋 Facebook SDK（僅供 SDK 出錯時使用，如果完全不用 Facebook 服務可常駐）~~\
 ~~https://raw.githubusercontent.com/jimmyorz/Surge/master/BlockFacebookSDK.sgmodule~~
@@ -67,6 +72,9 @@ https://kinta.ma/surge/ptt.sgmodule
 
 Netflix IMDB 評分 \
 https://kinta.ma/surge/netflix_rating.sgmodule
+
+PTT Imgur 修正 \
+https://kinta.ma/surge/ptt_imgur_fix.sgmodule
 
 皮樂姐姐推薦 \
 https://kinta.ma/surge/
