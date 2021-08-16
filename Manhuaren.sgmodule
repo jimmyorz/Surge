@@ -2,9 +2,8 @@
 #!desc=阻擋漫畫人廣告 v20210817.01
 #!system=ios
 
-#! 安裝本模組後，建議移除漫畫人再重新安裝以到最佳阻擋效果（重新安裝後會有一小段時間無法觀看限制內容，等待2小時左右即可解除）
-
 [Rule]
+#! 安裝本模組後，建議移除漫畫人再重新安裝以到最佳阻擋效果（重新安裝後會有一小段時間無法觀看限制內容，等待2小時左右即可解除）
 URL-REGEX,^https?:\/\/mangaapi.manhuaren.com\/.+\/public\/(getShelfActivity|getStartPageAds|getStartPageAds2|getRecommendedGame|getAditem|getAds|getMultiAds|getUpgradeInfo|getVendor|getUserLocation),REJECT
 URL-REGEX,^https?:\/\/mangaapi.manhuaren.com\/.+\/manga\/getMangaPromotionActivity,REJECT
 URL-REGEX,^https?:\/\/mangaapi.manhuaren.com\/.+\/ad\/,REJECT
