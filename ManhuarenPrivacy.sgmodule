@@ -2,6 +2,7 @@
 #!desc=阻擋漫畫人追蹤器 v20210817.01
 #!system=ios
 
+[Rule]
 #! 去除首頁活動相關物件
 URL-REGEX,^https?:\/\/mangaapi\.manhuaren\.com\/v\d\/\w+\/getStartUpMessage,REJECT
 
