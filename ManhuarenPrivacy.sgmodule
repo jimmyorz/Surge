@@ -18,3 +18,6 @@ DOMAIN-SUFFIX,pubnative.info,REJECT
 DOMAIN-SUFFIX,pubnative.net,REJECT
 DOMAIN-SUFFIX,sf-tb-sg.ibytedtos.com,REJECT
 DOMAIN-SUFFIX,dm16-alisg.byteoversea.com,REJECT
+
+[MITM]
+hostname = %APPEND% mangaapi.manhuaren.com
