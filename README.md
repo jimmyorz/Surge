@@ -76,5 +76,8 @@ https://kinta.ma/surge/netflix_rating.sgmodule
 PTT Imgur 修正 \
 https://kinta.ma/surge/ptt_imgur_fix.sgmodule
 
+Surge 蝦皮自動簽到 – 改 \
+https://hiraku.tw/2021/08/6606/
+
 皮樂姐姐推薦 \
 https://kinta.ma/surge/
