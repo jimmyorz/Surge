@@ -76,8 +76,11 @@ https://kinta.ma/surge/netflix_rating.sgmodule
 PTT Imgur 修正 \
 https://kinta.ma/surge/ptt_imgur_fix.sgmodule
 
-Surge 蝦皮自動簽到 – 改 \
+蝦皮每日自動簽到 & 開寶箱 \
 https://hiraku.tw/2021/08/6606/
+
+麥當勞每日自動簽到 \
+https://kinta.ma/surge/mcdonalds.sgmodule
 
 皮樂姐姐推薦 \
 https://kinta.ma/surge/
