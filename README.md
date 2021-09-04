@@ -65,22 +65,22 @@ LINE 去廣告 \
 https://raw.githubusercontent.com/jkgtw/Surge/master/Modules/LINE-ADs.sgmodule
 
 Facebook SDK 阻擋 \
-https://kinta.ma/surge/facebook_block_sdk.sgmodule
+https://kinta.ma/surge/modules/facebook_block_sdk.sgmodule
 
 PTT 跳過年齡驗證 \
-https://kinta.ma/surge/ptt.sgmodule
+https://kinta.ma/surge/modules/ptt.sgmodule
 
 Netflix IMDB 評分 \
-https://kinta.ma/surge/netflix_rating.sgmodule
+https://kinta.ma/surge/modules/netflix_rating.sgmodule
 
 PTT Imgur 修正 \
-https://kinta.ma/surge/ptt_imgur_fix.sgmodule
+https://kinta.ma/surge/modules/ptt_imgur_fix.sgmodule
 
 蝦皮每日自動簽到 & 開寶箱 \
 https://hiraku.tw/2021/08/6606/
 
 麥當勞每日自動簽到 \
-https://kinta.ma/surge/mcdonalds.sgmodule
+https://kinta.ma/surge/modules/mcdonalds.sgmodule
 
 皮樂姐姐推薦 \
 https://kinta.ma/surge/
