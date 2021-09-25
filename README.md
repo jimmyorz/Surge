@@ -77,7 +77,7 @@ PTT Imgur 修正 \
 https://kinta.ma/surge/modules/ptt_imgur_fix.sgmodule
 
 蝦皮每日自動簽到 & 開寶箱 \
-https://hiraku.tw/2021/08/6606/
+https://kinta.ma/surge/modules/shopee_checkin.sgmodule
 
 麥當勞每日自動簽到 \
 https://kinta.ma/surge/modules/mcdonalds.sgmodule
