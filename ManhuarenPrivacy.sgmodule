@@ -1,17 +1,17 @@
 #!name=Remove Manhuaren Trackers
-#!desc=阻擋漫畫人追蹤器 v20220105.01
+#!desc=阻擋漫畫人追蹤器 v20220106.01
 #!system=ios
 
 [Rule]
 #! 去除首頁活動相關物件
 URL-REGEX,^https?:\/\/mangaapi\.manhuaren\.com\/v\d\/\w+\/getStartUpMessage,REJECT
 
-#! 造成請求風暴暫時移除
+#! 造成新版請求風暴暫時移除（改由DNS處理）
 #! DOMAIN-KEYWORD,umeng,REJECT
 #! DOMAIN-SUFFIX,errlog.umeng.com,REJECT-DROP
+#! DOMAIN-SUFFIX,sdk.adtiming.com,REJECT-DROP
 
 #! 阻擋各種追蹤器
-DOMAIN-SUFFIX,sdk.adtiming.com,REJECT-DROP
 DOMAIN-SUFFIX,pangolin16.sgsnssdk.com,REJECT-DROP
 DOMAIN-SUFFIX,rayjump.com,REJECT-DROP
 DOMAIN-SUFFIX,admost.com,REJECT
@@ -20,6 +20,7 @@ DOMAIN-SUFFIX,pubnative.info,REJECT
 DOMAIN-SUFFIX,pubnative.net,REJECT
 DOMAIN-SUFFIX,sf-tb-sg.ibytedtos.com,REJECT
 DOMAIN-SUFFIX,dm16-alisg.byteoversea.com,REJECT
+DOMAIN-SUFFIX,api16-access-gcp.pangle.io,REJECT
 
 [MITM]
 hostname = %APPEND% mangaapi.manhuaren.com
