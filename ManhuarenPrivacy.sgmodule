@@ -1,17 +1,19 @@
 #!name=Remove Manhuaren Trackers
-#!desc=阻擋漫畫人追蹤器 v20210817.01
+#!desc=阻擋漫畫人追蹤器 v20220105.01
 #!system=ios
 
 [Rule]
 #! 去除首頁活動相關物件
 URL-REGEX,^https?:\/\/mangaapi\.manhuaren\.com\/v\d\/\w+\/getStartUpMessage,REJECT
 
+#! 造成請求風暴暫時移除
+#! DOMAIN-KEYWORD,umeng,REJECT
+#! DOMAIN-SUFFIX,errlog.umeng.com,REJECT-DROP
+
 #! 阻擋各種追蹤器
-DOMAIN-SUFFIX,errlog.umeng.com,REJECT-DROP
 DOMAIN-SUFFIX,sdk.adtiming.com,REJECT-DROP
 DOMAIN-SUFFIX,pangolin16.sgsnssdk.com,REJECT-DROP
 DOMAIN-SUFFIX,rayjump.com,REJECT-DROP
-DOMAIN-KEYWORD,umeng,REJECT
 DOMAIN-SUFFIX,admost.com,REJECT
 DOMAIN-SUFFIX,applovefrom.com,REJECT
 DOMAIN-SUFFIX,pubnative.info,REJECT
