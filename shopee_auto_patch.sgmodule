@@ -1,0 +1,10 @@
+#!name=蝦蝦果園自動化 Patch
+#!desc=藉由增加執行每日任務和接收獎勵腳本的次數，來排除部分獎勵接收失敗及原模組執行時間接近跨日可能會來不及手動收成的問題。 v20220822.01
+
+[Script]
+#! 每日簽到獎勵在 0:17 多領一次
+cron "17 0 * * *" script-path=https://kinta.ma/surge/scripts/shopee_water_signin_bundle.js, wake-system=1, timeout=5
+#! 8:21/13:21/18:21 接收每日任務獎勵，可自己改時間
+cron "21 8,13,18 * * *" script-path=https://kinta.ma/surge/scripts/shopee_water_mission_claim.js, wake-system=1, timeout=15
+#! 8:22/13:22/18:22 執行每日任務，可自己改時間
+cron "22 8,13,18 * * *" script-path=https://kinta.ma/surge/scripts/shopee_water_mission.js, wake-system=1, timeout=30
