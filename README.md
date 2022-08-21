@@ -6,6 +6,9 @@ https://raw.githubusercontent.com/jimmyorz/Surge/master/Manhuaren.sgmodule
 阻擋漫畫人追蹤器（可選，建議安裝）\
 https://raw.githubusercontent.com/jimmyorz/Surge/master/ManhuarenPrivacy.sgmodule
 
+蝦蝦果園自動化 Patch \
+https://raw.githubusercontent.com/jimmyorz/Surge/master/Shopee_auto_patch.sgmodule
+
 巴哈姆特簽到腳本（安裝前請先閱讀模組內容）\
 https://github.com/jimmyorz/Surge/raw/master/BahamutDailyBonus.sgmodule 
 - 或參考 https://www.jkg.tw/p3603/ 手動設定
