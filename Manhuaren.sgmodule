@@ -1,5 +1,5 @@
 #!name=Remove Manhuaren ADs
-#!desc=阻擋漫畫人廣告 v20230329.02
+#!desc=阻擋漫畫人廣告 v20230329.03
 #!system=ios
 
 [Rule]
@@ -12,6 +12,7 @@ DOMAIN-SUFFIX,adsapi.manhuaren.(com|net),REJECT
 DOMAIN-SUFFIX,videoapi.manhuaren.(com|net),REJECT
 DOMAIN-SUFFIX,bi.manhuaren.(com|net),REJECT
 DOMAIN-SUFFIX,euadsapi.manhuaren.(com|net),REJECT
+DOMAIN-SUFFIX,adlog.manhuaren.(com|net),REJECT
 
 [MITM]
 hostname = %APPEND% mangaapi.manhuaren.com mangaapi.manhuaren.net
