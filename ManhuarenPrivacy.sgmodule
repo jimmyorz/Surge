@@ -1,5 +1,5 @@
 #!name=Remove Manhuaren Trackers
-#!desc=阻擋漫畫人追蹤器 v20230329.02
+#!desc=阻擋漫畫人追蹤器 v20230330.01
 #!system=ios
 
 [Rule]
@@ -27,4 +27,4 @@ DOMAIN-SUFFIX,applog.uc.cn,REJECT-TINYGIF
 DOMAIN-SUFFIX,s.openmediation.com,REJECT
 
 [MITM]
-hostname = %APPEND% mangaapi.manhuaren.com mangaapi.manhuaren.net
+hostname = %APPEND% mangaapi.manhuaren.com, mangaapi.manhuaren.net
