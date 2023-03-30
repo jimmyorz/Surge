@@ -1,5 +1,5 @@
 #!name=Remove Manhuaren Trackers
-#!desc=阻擋漫畫人追蹤器 v20230330.01
+#!desc=阻擋漫畫人追蹤器 v20230331.01
 #!system=ios
 
 [Rule]
@@ -8,7 +8,8 @@ URL-REGEX,^https?:\/\/mangaapi\.manhuaren\.(com|net)\/v\d\/\w+\/getStartUpMessag
 
 #! 安裝本模組後，建議移除漫畫人再重新安裝以到最佳阻擋效果（重新安裝後會有一小段時間無法觀看限制內容，等待2小時左右即可解除）
 #! 若造成請求風暴請移除漫畫人再重新安裝，此為漫畫人追蹤log錯亂的問題
-DOMAIN-KEYWORD,umeng,REJECT
+DOMAIN-KEYWORD,umeng,REJECT-DROP
+DOMAIN-KEYWORD,tapjoy,REJECT-DROP
 DOMAIN-SUFFIX,errlog.umeng.com,REJECT-DROP
 DOMAIN-SUFFIX,sdk.adtiming.com,REJECT-DROP
 
