@@ -6,9 +6,6 @@ https://raw.githubusercontent.com/jimmyorz/Surge/master/Manhuaren.sgmodule
 阻擋漫畫人追蹤器（可選，建議安裝）\
 https://raw.githubusercontent.com/jimmyorz/Surge/master/ManhuarenPrivacy.sgmodule
 
-蝦蝦果園自動化 Patch \
-https://raw.githubusercontent.com/jimmyorz/Surge/master/Shopee_auto_patch.sgmodule
-
 巴哈姆特簽到腳本（安裝前請先閱讀模組內容）\
 https://github.com/jimmyorz/Surge/raw/master/BahamutDailyBonus.sgmodule 
 - 或參考 https://www.jkg.tw/p3603/ 手動設定
@@ -26,6 +23,9 @@ https://github.com/jimmyorz/Surge/raw/master/BahamutDailyBonus.sgmodule
 
 ~~Twitter Image DNS（192.229.237.96 已正常，可停用此模組）~~\
 ~~https://raw.githubusercontent.com/jimmyorz/Surge/master/TwitterImage.sgmodule~~
+
+~~蝦蝦果園自動化 Patch~~\
+~~https://raw.githubusercontent.com/jimmyorz/Surge/master/Shopee_auto_patch.sgmodule~~
 
 
 ## Jimmy's iOS Shortcuts
@@ -63,6 +63,7 @@ https://raw.githubusercontent.com/jkgtw/Surge/master/Modules/ADList.sgmodule
 
 FutaFilter \
 https://filter.futa.gg/Surge/filters.txt
+https://site.futa.gg/
 
 LINE 去廣告 \
 https://raw.githubusercontent.com/jkgtw/Surge/master/Modules/LINE-ADs.sgmodule
@@ -73,17 +74,8 @@ https://kinta.ma/surge/modules/facebook_block_sdk.sgmodule
 PTT 跳過年齡驗證 \
 https://kinta.ma/surge/modules/ptt.sgmodule
 
-Netflix IMDB 評分 \
-https://kinta.ma/surge/modules/netflix_rating.sgmodule
-
 PTT Imgur 修正 \
 https://kinta.ma/surge/modules/ptt_imgur_fix.sgmodule
 
-蝦皮每日自動簽到 & 開寶箱 \
-https://kinta.ma/surge/modules/shopee_checkin.sgmodule
-
-麥當勞每日自動簽到 \
-https://kinta.ma/surge/modules/mcdonalds.sgmodule
-
-皮樂姐姐推薦 \
+皮樂推薦 \
 https://kinta.ma/surge/
