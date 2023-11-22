@@ -1,0 +1,11 @@
+#!name=VSCO Unlock
+#!desc=可解鎖Plus版會員功能跟濾鏡，Pro濾鏡暫時無解
+
+#!via https://github.com/NobyDa/Script/blob/master/QuantumultX/File/vsco.js
+
+[Script]
+http-request ^https?:\/\/api\.revenuecat\.com\/v\d\/subscribers\/ script-path=https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/File/vsco.js
+http-response ^https?:\/\/api\.revenuecat\.com\/v\d\/subscribers\/ requires-body=1,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/File/vsco.js
+
+[MITM]
+hostname = %APPEND% vsco.co, api.revenuecat.com
