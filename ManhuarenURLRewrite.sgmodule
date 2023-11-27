@@ -1,0 +1,6 @@
+#!name=Manhuaren URL Rewrite
+#!desc=將漫畫人URL重新導向。解決因2023/11月底起，舊版漫畫人.net域名經常性無回應的問題，經發現將域名導向至極速版用的.com域名後可以完全排除問題，初步猜測可能是故意要藉此逐步淘汰舊版被下架的App。 v20231127.01
+#!system=ios
+
+[URL Rewrite]
+mangaapi.manhuaren.net mangaapi.manhuaren.com header
