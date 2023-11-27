@@ -1,10 +1,10 @@
 #!name=Remove Manhuaren Trackers
-#!desc=阻擋漫畫人追蹤器 v20230331.02
+#!desc=阻擋漫畫人追蹤器 v20231128.01
 #!system=ios
 
 [Rule]
 #! 去除首頁活動相關物件
-URL-REGEX,^https?:\/\/mangaapi\.manhuaren\.(com|net)\/v\d\/\w+\/getStartUpMessage,REJECT
+URL-REGEX,^https?:\/\/(mangaapi|comicapi).(manhuaren|manhuashe).(com|net)\/.+\/public\/(getStartUpMessage|startupactivity),REJECT
 
 #! 安裝本模組後，建議移除漫畫人再重新安裝以到最佳阻擋效果（重新安裝後會有一小段時間無法觀看限制內容，等待2小時左右即可解除）
 #! 若造成請求風暴請移除漫畫人再重新安裝，此為漫畫人追蹤log錯亂的問題
@@ -28,4 +28,4 @@ DOMAIN-SUFFIX,applog.uc.cn,REJECT-TINYGIF
 DOMAIN-SUFFIX,s.openmediation.com,REJECT-DROP
 
 [MITM]
-hostname = %APPEND% mangaapi.manhuaren.com, mangaapi.manhuaren.net
+hostname = %APPEND% mangaapi.manhuaren.com, mangaapi.manhuaren.net, comicapi.manhuashe.com
