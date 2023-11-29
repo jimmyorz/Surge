@@ -1,9 +1,6 @@
 #!name=Remove Manhuaren/Manhuashe ADs
-#!desc=阻擋漫畫人/漫畫社廣告 v20231127.01
+#!desc=阻擋漫畫人/漫畫社廣告 v20231130.01
 #!system=ios
-
-# 2023/11月底起，舊版漫畫人.net域名經常性無回應，經發現將域名導向至極速版用的.com域名後可以完全排除問題，初步猜測可能是故意要藉此逐步淘汰舊版被下架的App。若有此情況的朋友可以安裝重新導向URL的模組。
-# https://raw.githubusercontent.com/jimmyorz/Surge/master/ManhuarenURLRewrite.sgmodule
 
 [Rule]
 # 安裝本模組後，建議移除漫畫人/漫畫社再重新安裝以到最佳阻擋效果（重新安裝後會有一小段時間無法觀看限制內容，等待1-2小時左右即可解除）
@@ -16,6 +13,8 @@ DOMAIN-SUFFIX,videoapi.(manhuaren|manhuashe).(com|net),REJECT
 DOMAIN-SUFFIX,bi.(manhuaren|manhuashe).(com|net),REJECT
 DOMAIN-SUFFIX,euadsapi.(manhuaren|manhuashe).(com|net),REJECT
 DOMAIN-SUFFIX,adlog.(manhuaren|manhuashe).(com|net),REJECT
+# 2023/11月底起，舊版漫畫人.net域名經常性無回應，經發現將域名導向至極速版用的.com域名後可以完全排除問題，初步猜測可能是故意要藉此逐步淘汰舊版被下架的App。若有此情況的朋友可以安裝重新導向URL的模組。
+# https://raw.githubusercontent.com/jimmyorz/Surge/master/ManhuarenURLRewrite.sgmodule
 
 [MITM]
 hostname = %APPEND% mangaapi.manhuaren.com, mangaapi.manhuaren.net, comicapi.manhuashe.com
