@@ -1,9 +1,9 @@
 # Jimmy's Surge Rules
 
-阻擋漫畫人廣告（已同步整合至 [FutaFilter](https://github.com/FutaGuard/FutaFilter)）\
+阻擋漫畫人/漫畫社廣告（已同步整合至 [FutaFilter](https://github.com/FutaGuard/FutaFilter)）\
 https://raw.githubusercontent.com/jimmyorz/Surge/master/Manhuaren.sgmodule
 
-阻擋漫畫人追蹤器（可選，建議安裝）\
+阻擋漫畫人/漫畫社追蹤器（可選，建議安裝）\
 https://raw.githubusercontent.com/jimmyorz/Surge/master/ManhuarenPrivacy.sgmodule
 
 巴哈姆特簽到腳本（安裝前請先閱讀模組內容）\
