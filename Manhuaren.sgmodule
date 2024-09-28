@@ -1,6 +1,7 @@
 #!name=Remove Manhuaren/Manhuashe ADs
-#!desc=阻擋漫畫人/漫畫社廣告 v20231130.01
+#!desc=阻擋漫畫人/漫畫社廣告 v20240929.01
 #!system=ios
+#!category=Adblock
 
 [Rule]
 # 安裝本模組後，建議移除漫畫人/漫畫社再重新安裝以到最佳阻擋效果（重新安裝後會有一小段時間無法觀看限制內容，等待1-2小時左右即可解除）
