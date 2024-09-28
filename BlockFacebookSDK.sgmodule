@@ -1,6 +1,7 @@
 #!name=Block Facebook SDK
-#!desc=解決因 Facebook SDK 錯誤造成 App 無預警退出的問題 (SDK 出問題時再開啟) v20200710.01
+#!desc=解決因 Facebook SDK 錯誤造成 App 無預警退出的問題 (SDK 出問題時再開啟，也可以擋掉 FB 廣告) v20240929.01
 #!system=ios
+#!category=Adblock
 
 [Host]
 graph.facebook.com = 0.0.0.0
