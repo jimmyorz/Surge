@@ -1,6 +1,7 @@
 #!name=Remove Manhuaren/Manhuashe Trackers
-#!desc=阻擋漫畫人/漫畫社追蹤器 v20231128.02
+#!desc=阻擋漫畫人/漫畫社追蹤器 v20240929.01
 #!system=ios
+#!category=Adblock
 
 [Rule]
 # 去除首頁活動相關物件
