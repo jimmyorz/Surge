@@ -1,0 +1,10 @@
+! 白名單
+gsp-ssl.ls.apple.com
+time.apple.com
+
+! AOE Block
+gs-loc.apple.com
+iphone-services.apple.com
+iphone-services.applle.com
+iphone-services.com
+apple.com
