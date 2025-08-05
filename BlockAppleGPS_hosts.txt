@@ -1,6 +1,6 @@
-! Block Apple GPS Hosts Filter
+! Block Apple GPS Hosts
 ! Title: Block Apple GPS Hosts
-! Version: 2025.0805.4
+! Version: 2025.0805.5
 ! Homepage: https://github.com/jimmyorz
 ! ----------------------------------------------------------------------
 ! 服務白名單
