@@ -1,4 +1,9 @@
-! 白名單
+[Adblock Plus]
+! Title: Block Apple GPS Hosts Filter
+! Version: 2025.0805.2
+! Homepage: https://github.com/jimmyorz
+! ----------------------------------------------------------------------
+! 服務白名單
 gsp-ssl.ls.apple.com
 time.apple.com
 
