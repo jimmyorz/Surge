@@ -1,0 +1,16 @@
+#!name=Block Apple GPS
+#!desc=阻擋 Apple GPS 服務 v20250808.01
+#!system=ios
+#!category=Adblock
+
+[Rule]
+# 白名單
+DOMAIN-SUFFIX gsp-ssl.ls.apple.com,DIRECT
+DOMAIN-SUFFIX time.apple.com,DIRECT
+
+# 特殊用途，平常勿開
+DOMAIN-SUFFIX gs-loc.apple.com,REJECT
+DOMAIN-SUFFIX iphone-services.apple.com,REJECT
+DOMAIN-SUFFIX iphone-services.applle.com,REJECT
+DOMAIN-SUFFIX iphone-services.com,REJECT
+DOMAIN-SUFFIX apple.com,REJECT
